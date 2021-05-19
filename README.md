@@ -5,4 +5,6 @@ This project is a work-in-progress. When finished, it will be able to recognize 
 
 ### References:
 
-- https://www.imedpub.com/articles/a-review-paper-on-license-plate-recognition-system.pdf
+- Literature review: https://www.imedpub.com/articles/a-review-paper-on-license-plate-recognition-system.pdf
+
+- SNIDER: https://arxiv.org/pdf/1910.03876v1.pdf
