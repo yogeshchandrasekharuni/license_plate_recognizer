@@ -17,3 +17,5 @@ This project is a work-in-progress. When finished, it will be able to recognize 
 - Literature review: https://www.imedpub.com/articles/a-review-paper-on-license-plate-recognition-system.pdf
 
 - SNIDER: https://arxiv.org/pdf/1910.03876v1.pdf
+
+- Dataset - AOLP: https://github.com/AvLab-CV/AOLP
