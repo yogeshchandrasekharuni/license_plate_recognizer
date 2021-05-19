@@ -18,4 +18,6 @@ This project is a work-in-progress. When finished, it will be able to recognize 
 
 - SNIDER: https://arxiv.org/pdf/1910.03876v1.pdf
 
+- UNet: https://github.com/zhixuhao/unet/blob/master/model.py
+
 - Dataset - AOLP: https://github.com/AvLab-CV/AOLP
