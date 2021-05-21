@@ -20,4 +20,6 @@ This project is a work-in-progress. When finished, it will be able to recognize 
 
 - UNet: https://github.com/zhixuhao/unet/blob/master/model.py
 
-- Dataset - AOLP: https://github.com/AvLab-CV/AOLP
+- Datasets:
+    - AOLP: https://github.com/AvLab-CV/AOLP
+    - CCPD: https://github.com/detectRecog/CCPD
